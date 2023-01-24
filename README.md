@@ -9,6 +9,6 @@
 
 ใช้ jwt jsonwebtoken สร้าง Token
 
-ใช้ jwt mysql2 เพื่อเข้าถึงฐานข้อมูล 
+ใช้ mysql2 เพื่อเข้าถึงฐานข้อมูล 
 สร้างฐานข้อมูล โดย MySQL และใช้ Postman ในการทดสอบ API
 
